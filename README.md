@@ -1,3 +1,6 @@
+# 此项目已被废弃
+B站API已经大变样了，这个项目还停留在5年前，做个留恋吧。 
+
 # 用于下载Bilibili的弹幕
 > 我看过很多相似的代码，但都只能下载www.bilibili.com/video/avXXXXX的弹幕，
 > 不能下载bangumi.bilibili.com/anime/XXXXXX下的弹幕，并且对于弹幕文件`XXXX.xml`中
